@@ -6,7 +6,7 @@
 
 ## INTRODUCTION
 To provide a fare market place for transaction across the Block Chain. This is project for and Idea of crypto curencey. 
-(https://i.imgur.com/yUxumfI.png "Intro Page")
+![intro Page](https://i.imgur.com/yUxumfI.png "intro Page")
 
 
 ## TECHNOLOGIES
