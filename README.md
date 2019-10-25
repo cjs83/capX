@@ -1,14 +1,13 @@
 <h1 style="text-align:center; width:100%;" > capX </h1>
 
-<img src="Home_page.jpg" alt="Home_page" title="Home_page" width="200" height="200" />
+
 
 
 
 ## INTRODUCTION
+To provide a fare market place for transaction across the Block Chain. This is project for and Idea of crypto curencey. 
+(https://i.imgur.com/yUxumfI.png "Intro Page")
 
-<img src="Account_page.jpg" alt="Accounts" title="Accounts" width="200" height="200" />
-
->[capX - Deployed Page](https://capxexchange.herokuapp.com/)
 
 ## TECHNOLOGIES
 
@@ -21,13 +20,8 @@
 * HTML
 * Trello
 
-## PITCH-DECK
 
->[capX Pitch-deck](https://www.icloud.com/keynote/0C9Ck9U3JRX2WnD5krrsxCykw#capx)
 
-## TRELLO
-
->[Trello Board](https://trello.com/b/yg1hEwqj/capx)
 
 ## DEPLOYED PAGE
 
